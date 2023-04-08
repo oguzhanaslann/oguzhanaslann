@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhanaslann&label=Profile%20views&color=0e75b6&style=flat" alt="oguzhanaslann" /> </p>
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
