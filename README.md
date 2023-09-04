@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Aslan</h1>
 <h3 align="center">A passionate Mobile developer from Turkey.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhanaslann&label=Profile%20views&color=0e75b6&style=flat" alt="oguzhanaslann" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhanaslann&label=Profile%20views&color=0e75b6&style=flat" alt="oguzhanaslann" /> </p> -->
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
